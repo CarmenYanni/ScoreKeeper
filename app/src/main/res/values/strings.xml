@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="real_madrid">Real Madrid</string>
+    <string name="foul_0">Foul= 0</string>
+    <string name="red_card_0">Red Card= 0</string>
+    <string name="yellow_card_0">Yellow Card= 0</string>
+    <string name="ball_possession_0">Ball Possession= %0</string>
+    <string name="score_0">Score= 0</string>
+    <string name="goal_0">Goal = 0</string>
+    <string name="add_goal">Add Goal</string>
+    <string name="barcelona">Barcelona</string>
+</resources>
